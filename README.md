@@ -4,7 +4,7 @@
 Product Review is a Laravel powered API that allows users to add, view, update and delete products. Users will also be able to rate and review a product.
 This project is based on the tutorial [Build a Product Review REST API with Laravel](https://wayfarer1000.herokuapp.com/api)
 
-![alt text](https://raw.githubusercontent.com/Steelze/product-review-api/master/public/screenshot.png)
+![alt text](https://raw.githubusercontent.com/Steelze/product-review-api/master/public/screenshot.jpg)
 
 ## Table of Contents
 1. <a href="#technology-stack">Technology Stack</a>
@@ -49,8 +49,8 @@ These instructions will get you a copy of the project up and running on your loc
  
   ### Getting Started
     ```
-    $ git clone https://github.com/Steelze/wayfarer.git
-    $ cd wayfarer
+    $ git clone https://github.com/Steelze/product-review-api.git
+    $ cd product-review-api
     $ composer install
     ```
   - Duplicate and save .env.example as .env and fill in environment variables

@@ -2,7 +2,7 @@
 
 ## Introduction
 Product Review is a Laravel powered API that allows users to add, view, update and delete products. Users will also be able to rate and review a product.
-This project is based on the tutorial [Build a Product Review REST API with Laravel](https://wayfarer1000.herokuapp.com/api)
+This project is based on the tutorial [Build a Product Review REST API with Laravel](https://dev.to/mr_steelze/build-a-product-review-rest-api-with-laravel-2ih8)
 
 ![alt text](https://raw.githubusercontent.com/Steelze/product-review-api/master/public/screenshot.jpg)
 
